@@ -1,3 +1,8 @@
+body.body-font {
+  font-family: 'Nunito', 'Hiragino Kaku Gothic ProN', 'Meiryo';
+  letter-spacing: 0.0625em;
+}
+
 #mainNav .navbar-brand_custom{
     font-family: 'Impact';
     font-size: 2.0rem;
@@ -172,4 +177,9 @@ a.icon_custom2:focus, a:hover {
 .modal-body_custom{
     position: relative;
     display: inline-block;
+}
+
+/*goods parts*/
+img.card-img_custom{
+    height: 200px;
 }
